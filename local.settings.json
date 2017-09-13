@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_AUTH_TOKEN_STORE": "True",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "LocalGit",
+    "AzureWebJobsSecretStorageType": "disabled",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "WEBSITE_AUTH_UNAUTHENTICATED_ACTION": "RedirectToLoginPage",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "a14291b3-6bf4-49f4-b77f-e99fc5f72c89",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=vrtxirul63npmazfunctions;AccountKey=yzILGCxuHBo91PcICLzeM8XKepWjFsak2Oxt1vamEVKLVD1y03zDfQk+/c9e2Xq/wI14oHFEjQtUmhxszRvPEg==",
+    "naagcosmo_DOCUMENTDB": "AccountEndpoint=https://naagcosmo.documents.azure.com:443/;AccountKey=Us1WkrBREewctCz8ZG96sHdG9ikS5QPG5LNuSGS6SAid3q7umScGinZQMjptTFgcFqWGLjWlDJ2YSxt3e2UwcQ==;",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=vrtxirul63npmazfunctions;AccountKey=yzILGCxuHBo91PcICLzeM8XKepWjFsak2Oxt1vamEVKLVD1y03zDfQk+/c9e2Xq/wI14oHFEjQtUmhxszRvPEg==",
+    "WEBSITE_CONTENTSHARE": "naag-faas",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "WEBSITE_SITE_NAME": "naag-faas",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=vrtxirul63npmazfunctions;AccountKey=yzILGCxuHBo91PcICLzeM8XKepWjFsak2Oxt1vamEVKLVD1y03zDfQk+/c9e2Xq/wI14oHFEjQtUmhxszRvPEg==",
+    "WEBSITE_AUTH_DEFAULT_PROVIDER": "AzureActiveDirectory"
+  }
+}
