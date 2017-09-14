@@ -30,10 +30,10 @@ static async Task RunAsync(TraceWriter log)
                    {"Email", "naag@hipgroup.co.nz"},
                    {"Name", "naag"}
                    },
-                  new JObject {
+                  /*new JObject {
                    {"Email", "mikkel@hipgroup.co.nz"},
                    {"Name", "Mikkel"}
-                   },
+                   },*/
                   //new JObject {
                    //{"Email", "amanda@hipgroup.co.nz"},
                    //{"Name", "Amanda"}
